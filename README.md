@@ -1,2 +1,3 @@
 # Learn-code
-this is first repo
+this is my first repository
+author-vijeta singh
